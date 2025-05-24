@@ -1,6 +1,6 @@
 # ProjekSISKEM
 
-## Cara Instalasi
+## Cara Jalanin Program
 1. Download File Projek_Siskem_Bioskop.rar
 2. di extract file download tadi, karena dari rar
 3. setelah itu file akan menjadi folder engi_cinema
